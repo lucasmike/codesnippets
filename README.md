@@ -1,4 +1,8 @@
 # codesnippets
 Random pieces of useful code
 
-lambda-express-app.js: template for an AWS Lambda express app
+### countries.json
+List of countries with ISO country codes both alpha 2 and alpha 3 codes
+
+### lambda-express-app.js
+A simple template for an AWS Lambda express app
